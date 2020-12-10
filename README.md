@@ -6,7 +6,7 @@ Unfortunately, being the behemoth that it is, it is difficult to escape. So this
 
 ### How to use:
 This app will use a barcode numerical entry that will use webscraping techniques to search for the company that produces the product. 
-I have compiled a list of subsidiaries that are under the parent company of nestle. This app will take the result and compare with the list. Essentially making it the hot dog not hot dog of evil corporations. 
+I have compiled a list of subsidiaries that are under the parent company of nestle [Source.](https://en.wikipedia.org/wiki/List_of_Nestl%C3%A9_brands). This app will take the result and compare with the list. Essentially making it the hot dog not hot dog of evil corporations. 
 
 This app currently uses a numerical entry and web scraping to get the job done but it would be cool to have an image processing aspect and to deploy into an app or maybe even a twitter bot. 
 
